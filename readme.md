@@ -9,13 +9,13 @@
 <img src="./img/dio.png" alt="DIO Logo" width="200"/>
 <img src="./img/artificial-intelligence.png" alt="Artificial Intelligence Logo" width="200"/>
 
-# Sistema de Assistência Virtual
+# Sistema de Secretária Virtual
 
-Este projeto é baseado no [laboratório da DIO](https://web.dio.me/lab/criando-um-sistema-de-assistencia-virtual-do-zero/learning/f6b50706-6db8-4648-8f60-f547900122a7).
+Sua própria secretária virtual com inteligência artificial usando N8N MCP, Chatwoot, Evolution API, WhatsApp, Supabase, ElevenLabs e muito mais!
 
 ## Visão Geral
 
-O sistema de assistência virtual é uma aplicação que utiliza técnicas de processamento de linguagem natural (NLP) e machine learning para interagir com os usuários de forma inteligente. Este projeto demonstra como criar um assistente virtual do zero, integrando diferentes tecnologias e bibliotecas.
+O sistema de secretária virtual é uma aplicação que utiliza técnicas de processamento de linguagem natural (NLP) e machine learning para interagir com os usuários de forma inteligente. Este projeto demonstra como criar um assistente virtual do zero, integrando diferentes tecnologias e bibliotecas capaz de agendar compromissos, responder com voz, reagir com emojis, fazer follow-ups automáticos e até escalar conversas para humanos quando necessário.
 
 ## Descrição do Desafio
 
